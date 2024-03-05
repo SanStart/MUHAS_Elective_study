@@ -14,10 +14,8 @@ Cervical cancer remains a significant public health issue, especially in under-r
 
 ## Dataset
 
-The study utilizes publicly available datasets of Pap smear cytological images. The specific datasets used include:
-- [Dataset Name 1]: Description and link
-- [Dataset Name 2]: Description and link
-(Replace the placeholders with actual dataset names, descriptions, and links.)
+The study utilizes publicly available datasets of Pap smear cytological images. The specific dataset used includes:
+CRIC Searchable Image Database
 
 ## Methodology
 
